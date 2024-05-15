@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import {useTranslation, Trans} from 'react-i18next';
+import Home from './pages/home/Home';
 
 interface Language {
     nativeName: string;
@@ -22,6 +23,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
+                <Home />
                 <img src={logo} className="App-logo" alt="logo"/>
                 <div>
                     {Object.keys(lngs).map((lng) => (

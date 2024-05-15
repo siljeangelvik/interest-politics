@@ -53,6 +53,7 @@
 
 ---
 
+- [Britannica: List of War](https://www.britannica.com/topic/list-of-wars-2031197)
 - [Tidslinje over Norsk Historie](https://nn.wikipedia.org/wiki/Tidslinje_over_norsk_historie)
 
 
