@@ -44,12 +44,17 @@
 - [i18n Docs: useTranslation (Hook)](https://react.i18next.com/latest/usetranslation-hook)
 - [i18n Docs: Using with ICU Format](https://react.i18next.com/misc/using-with-icu-format#tagged-template-for-icu)
 - [StackOverflow: Cannot Find Module 'react-i18next'](https://stackoverflow.com/questions/58175616/cannot-find-module-react-i18next)
+- [Find Object by Property in JavaScript Array](https://sentry.io/answers/find-object-by-property-in-javascript-array/)
+- 
 
 ##### _Last Working On:_
 
 [**React Localization - Internationalize with i18next**](https://locize.com/blog/react-i18next/)
 
 ---
+
+- [Tidslinje over Norsk Historie](https://nn.wikipedia.org/wiki/Tidslinje_over_norsk_historie)
+
 
 #### APIS
 
