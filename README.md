@@ -47,6 +47,7 @@
 - **StackOverflow:** [Cannot Find Module 'react-i18next'](https://stackoverflow.com/questions/58175616/cannot-find-module-react-i18next)
 - [Find Object by Property in JavaScript Array](https://sentry.io/answers/find-object-by-property-in-javascript-array/)
 - **StackOverflow:** [React TypeScript Assigning Local JSON to useState](https://stackoverflow.com/questions/61388992/react-typescript-assigning-local-json-to-usestate)
+- [Fetch Data from a JSON file in a React App](https://www.pluralsight.com/resources/blog/guides/fetch-data-from-a-json-file-in-a-react-app)
 - [How to Use React Router in TypeScript](https://www.pluralsight.com/resources/blog/guides/react-router-typescript)
 - **Docs:** [React Router](https://reactrouter.com/en/main)
 - **StackOverflow:** [react-router vs react-router-dom](https://stackoverflow.com/questions/42684809/react-router-vs-react-router-dom-when-to-use-one-or-the-other)
