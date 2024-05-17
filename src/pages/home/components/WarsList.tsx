@@ -1,5 +1,6 @@
 import {useEffect} from "react";
 import {useApiGet} from "../../../hooks/useApiGet"; // Adjust the path as needed
+import '../../../App.css';
 
 const WarsList = () => {
     // Use the useApiGet hook to fetch wars.json data
@@ -22,8 +23,9 @@ const WarsList = () => {
                     {/* Render the fetched data */}
                     {data?.Wars.map((war) => (
                         <div key={war.id}>
-                            <h2>{war.name}</h2>
-                            <p>Duration: {war.duration}</p>
+                            <h6>{war.name}</h6>
+                            <p><strong>Duration: </strong>{war.duration}</p>
+
                             {/* Add more fields as needed */}
                         </div>
                     ))}
