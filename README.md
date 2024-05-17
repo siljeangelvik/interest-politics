@@ -37,17 +37,18 @@
 - [Create React App and TypeScript: A Quick How-To](https://builtin.com/software-engineering-perspectives/create-react-app-typescript)
 - [Implementing the Translate Function with TypeScript](https://dev.to/halolab/implementing-the-translate-function-with-typescript-5d8d)
 - [Internationalization Using i18next with React TypeScript](https://medium.com/ms-club-of-sliit/internationalization-using-i18next-with-react-typescript-d7c443df3be4)
-- [React Docs: Built-in React Hooks](https://react.dev/reference/react/hooks)
-- [React Docs: Rules of Hooks](https://react.dev/reference/rules/rules-of-hooks)
-- [i18n Docs: Step by Step Guide](https://react.i18next.com/latest/using-with-hooks)
-- [i18n Docs: Trans Component](https://react.i18next.com/latest/trans-component)
-- [i18n Docs: withTranslation(HOC)](https://react.i18next.com/latest/trans-component)
-- [i18n Docs: useTranslation (Hook)](https://react.i18next.com/latest/usetranslation-hook)
-- [i18n Docs: Using with ICU Format](https://react.i18next.com/misc/using-with-icu-format#tagged-template-for-icu)
-- [StackOverflow: Cannot Find Module 'react-i18next'](https://stackoverflow.com/questions/58175616/cannot-find-module-react-i18next)
+- **Docs:** [React: Built-in React Hooks](https://react.dev/reference/react/hooks)
+- **Docs:** [React: Rules of Hooks](https://react.dev/reference/rules/rules-of-hooks)
+- **Docs:** [i18n: Step by Step Guide](https://react.i18next.com/latest/using-with-hooks)
+- **Docs:** [i18n: Trans Component](https://react.i18next.com/latest/trans-component)
+- **Docs:** [i18n: withTranslation(HOC)](https://react.i18next.com/latest/trans-component)
+- **Docs:** [i18n: useTranslation (Hook)](https://react.i18next.com/latest/usetranslation-hook)
+- **Docs:** [i18n: Using with ICU Format](https://react.i18next.com/misc/using-with-icu-format#tagged-template-for-icu)
+- **StackOverflow:** [Cannot Find Module 'react-i18next'](https://stackoverflow.com/questions/58175616/cannot-find-module-react-i18next)
 - [Find Object by Property in JavaScript Array](https://sentry.io/answers/find-object-by-property-in-javascript-array/)
-- [StackOverflow: React TypeScript Assigning Local JSON to useState](https://stackoverflow.com/questions/61388992/react-typescript-assigning-local-json-to-usestate)
-- 
+- **StackOverflow:** [React TypeScript Assigning Local JSON to useState](https://stackoverflow.com/questions/61388992/react-typescript-assigning-local-json-to-usestate)
+- [How to Use React Router in TypeScript](https://www.pluralsight.com/resources/blog/guides/react-router-typescript)
+- **Docs:** [React Router ](https://reactrouter.com/en/main)
 
 ##### _Last Working On:_
 
@@ -55,13 +56,13 @@
 
 ---
 
-- [Britannica: List of War](https://www.britannica.com/topic/list-of-wars-2031197)
+- **Britannica:** [List of War](https://www.britannica.com/topic/list-of-wars-2031197)
 - [Tidslinje over Norsk Historie](https://nn.wikipedia.org/wiki/Tidslinje_over_norsk_historie)
 
 
 #### APIS
 
-- [Rapid API: Politics](https://rapidapi.com/search/politics)
+- **Rapid API:** [Politics](https://rapidapi.com/search/politics)
 
 #### Packages
 

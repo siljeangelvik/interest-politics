@@ -1,6 +1,6 @@
 import {useEffect} from "react";
-import {useApiGet} from "../../../hooks/useApiGet"; // Adjust the path as needed
-import '../../../App.css';
+import '../App.css';
+import {useApiGet} from "../hooks/useApiGet"; // Adjust the path as needed
 
 const WarsList = () => {
     // Use the useApiGet hook to fetch wars.json data
