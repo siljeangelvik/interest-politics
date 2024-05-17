@@ -1,4 +1,0 @@
-# Norsk Politikk // Norwegian Politics
-
-
-//
