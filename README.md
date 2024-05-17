@@ -48,7 +48,9 @@
 - [Find Object by Property in JavaScript Array](https://sentry.io/answers/find-object-by-property-in-javascript-array/)
 - **StackOverflow:** [React TypeScript Assigning Local JSON to useState](https://stackoverflow.com/questions/61388992/react-typescript-assigning-local-json-to-usestate)
 - [How to Use React Router in TypeScript](https://www.pluralsight.com/resources/blog/guides/react-router-typescript)
-- **Docs:** [React Router ](https://reactrouter.com/en/main)
+- **Docs:** [React Router](https://reactrouter.com/en/main)
+- **StackOverflow:** [react-router vs react-router-dom](https://stackoverflow.com/questions/42684809/react-router-vs-react-router-dom-when-to-use-one-or-the-other)
+- [React Router TypeScript](https://galaxies.dev/quickwin/react-router-typescript)
 
 ##### _Last Working On:_
 
