@@ -2,11 +2,12 @@
 
 #### Wed, 15 May 2024
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/86a8340e-93a8-440b-9f39-37c17ecca2a0/deploy-status)](https://app.netlify.com/sites/avenadev-interest/deploys)  
 ![Hello](https://img.shields.io/static/v1?label=interest&message=politics&color=orange) ![GitHub last commit](https://img.shields.io/github/last-commit/siljeangelvik/interest-politics?&color=ff69b4)  
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/siljeangelvik/interest-politics?&color=blue) ![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/r/rating/R4Intellij?&color=blueviolet)
 
 **Author:** [Silje Angelvik](https://github.com/siljeangelvik)    
-**Host:** [N/A]  
+**Host:** [Netlify](https://avenadev-interest.netlify.app/)  
 **Repository:** [GitHub](https://github.com/siljeangelvik/interest-politics)
 
 ## Process
