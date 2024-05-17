@@ -45,6 +45,7 @@
 - [i18n Docs: Using with ICU Format](https://react.i18next.com/misc/using-with-icu-format#tagged-template-for-icu)
 - [StackOverflow: Cannot Find Module 'react-i18next'](https://stackoverflow.com/questions/58175616/cannot-find-module-react-i18next)
 - [Find Object by Property in JavaScript Array](https://sentry.io/answers/find-object-by-property-in-javascript-array/)
+- [StackOverflow: React TypeScript Assigning Local JSON to useState](https://stackoverflow.com/questions/61388992/react-typescript-assigning-local-json-to-usestate)
 - 
 
 ##### _Last Working On:_

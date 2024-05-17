@@ -1,11 +1,12 @@
-import { useEffect } from "react";
-import { useApiGet, TApiResponse } from "../../hooks/useApiGet"; // Adjust the path as needed
 // import warsDataList from '../../data/wars.json';
+// import * as data from '../../data/wars.json';
 
+import { useEffect } from "react";
+import { useApiGet } from "../../hooks/useApiGet"; // Adjust the path as needed
 
 const Home = () => {
     // Use the useApiGet hook to fetch wars.json data
-    const { data, loading, error } = useApiGet<any[]>(`../../data/wars.json`);
+    const { data, loading, error } = useApiGet<{ Wars: any[] }>("/wars.json");
 
     useEffect(() => {
         console.log(data); // Log the fetched data to verify
@@ -23,7 +24,7 @@ const Home = () => {
             ) : (
                 <div>
                     {/* Render the fetched data */}
-                    {data?.map((war: any) => (
+                    {data?.Wars.map((war) => (
                         <div key={war.id}>
                             <h2>{war.name}</h2>
                             <p>Duration: {war.duration}</p>
